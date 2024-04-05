@@ -384,6 +384,31 @@
   position: sticky; 
   top: 0; 
 }
+.box-report{
+  padding: 10px;
+  width: 25%;
+  height: 75%;
+  border-radius: 25px;
+  background-color: #89CFF3;
+}
+.btn-Download {
+  margin-top: 100px;
+  border-radius: 15px;
+  width: 84%;
+  height: 50px;
+  padding: 5px;
+  border: none;
+  background-color: #CDF5FD;
+  color: #808080;
+
+  font-family: "Nunito", sans-serif;
+  letter-spacing: 2px;
+}
+
+.btn-Download:hover{
+  background-color: rgba(205, 245, 253, 0.5);
+  color: #808080;
+}
 
 
 
